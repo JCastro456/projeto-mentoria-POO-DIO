@@ -1,0 +1,16 @@
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.csprojAssemblyReference.cache
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.AssemblyInfoInputs.cache
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.AssemblyInfo.cs
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.csproj.CoreCompileInputs.cache
+C:\Users\projeto mentoria\bin\Debug\net5.0\projeto mentoria.exe
+C:\Users\projeto mentoria\bin\Debug\net5.0\projeto mentoria.deps.json
+C:\Users\projeto mentoria\bin\Debug\net5.0\projeto mentoria.runtimeconfig.json
+C:\Users\projeto mentoria\bin\Debug\net5.0\projeto mentoria.runtimeconfig.dev.json
+C:\Users\projeto mentoria\bin\Debug\net5.0\projeto mentoria.dll
+C:\Users\projeto mentoria\bin\Debug\net5.0\ref\projeto mentoria.dll
+C:\Users\projeto mentoria\bin\Debug\net5.0\projeto mentoria.pdb
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.dll
+C:\Users\projeto mentoria\obj\Debug\net5.0\ref\projeto mentoria.dll
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.pdb
+C:\Users\projeto mentoria\obj\Debug\net5.0\projeto mentoria.genruntimeconfig.cache
